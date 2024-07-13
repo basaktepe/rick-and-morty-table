@@ -1,4 +1,4 @@
-# Başak Tepe Massive Bioinformatics Frontend Internship Assessment Case
+# Rick And Morty Table 
 
 ## Vercel Link : https://frontend-internship-assesment.vercel.app/
 
